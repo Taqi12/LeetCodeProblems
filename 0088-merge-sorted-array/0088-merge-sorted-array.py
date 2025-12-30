@@ -3,7 +3,8 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        
+
+        # Approach 1 
         # if n == 0:
         #     return nums1
 
@@ -12,6 +13,7 @@ class Solution:
 
         # nums1.sort()
 
+        # Approach 2
         left = m - 1
         right = n - 1
         k = m + n - 1
