@@ -16,8 +16,10 @@ class Solution:
             elif nums[r] % 2 != 0:
                 r += 2
             
-            elif nums[l] % 2 != 0 and nums[r] % 2 == 0:
+            else:
                 nums[l], nums[r] = nums[r], nums[l]
+                l += 2
+                r += 2
 
         return nums
                 
