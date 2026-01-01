@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/Taqi12/LeetCodeProblems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/0922-sort-array-by-parity-ii) |
+| [1929-concatenation-of-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Taqi12/LeetCodeProblems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
 |  |
@@ -32,4 +33,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Taqi12/LeetCodeProblems/tree/master/0066-plus-one) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
