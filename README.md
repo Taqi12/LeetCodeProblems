@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/Taqi12/LeetCodeProblems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/0922-sort-array-by-parity-ii) |
+| [1768-merge-strings-alternately](https://github.com/Taqi12/LeetCodeProblems/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Taqi12/LeetCodeProblems/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Taqi12/LeetCodeProblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Taqi12/LeetCodeProblems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Taqi12/LeetCodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
+| [1768-merge-strings-alternately](https://github.com/Taqi12/LeetCodeProblems/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Taqi12/LeetCodeProblems/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
