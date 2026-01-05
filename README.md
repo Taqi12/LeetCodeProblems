@@ -82,5 +82,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Taqi12/LeetCodeProblems/tree/master/0155-min-stack) |
 | [2000-reverse-prefix-of-word](https://github.com/Taqi12/LeetCodeProblems/tree/master/2000-reverse-prefix-of-word) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Taqi12/LeetCodeProblems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
