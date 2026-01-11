@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Taqi12/LeetCodeProblems/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/Taqi12/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Taqi12/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Taqi12/LeetCodeProblems/tree/master/0645-set-mismatch) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Taqi12/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Taqi12/LeetCodeProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Taqi12/LeetCodeProblems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Taqi12/LeetCodeProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Taqi12/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Taqi12/LeetCodeProblems/tree/master/0155-min-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Taqi12/LeetCodeProblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Taqi12/LeetCodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -104,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Taqi12/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [1975-maximum-matrix-sum](https://github.com/Taqi12/LeetCodeProblems/tree/master/1975-maximum-matrix-sum) |
 ## Tree
 |  |
@@ -132,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Taqi12/LeetCodeProblems/tree/master/0175-combine-two-tables) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Taqi12/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
