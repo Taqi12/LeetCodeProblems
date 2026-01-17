@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/Taqi12/LeetCodeProblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Taqi12/LeetCodeProblems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Taqi12/LeetCodeProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Taqi12/LeetCodeProblems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3453-separate-squares-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3454-separate-squares-ii) |
 ## Two Pointers
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Taqi12/LeetCodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Taqi12/LeetCodeProblems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Taqi12/LeetCodeProblems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Math
 |  |
 | ------- |
@@ -163,4 +165,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3454-separate-squares-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Taqi12/LeetCodeProblems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 <!---LeetCode Topics End-->
