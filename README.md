@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/Taqi12/LeetCodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Taqi12/LeetCodeProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/1470-shuffle-the-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Taqi12/LeetCodeProblems/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Taqi12/LeetCodeProblems/tree/master/1975-maximum-matrix-sum) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/Taqi12/LeetCodeProblems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/Taqi12/LeetCodeProblems/tree/master/1768-merge-strings-alternately) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Taqi12/LeetCodeProblems/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Taqi12/LeetCodeProblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Taqi12/LeetCodeProblems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/Taqi12/LeetCodeProblems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Taqi12/LeetCodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Taqi12/LeetCodeProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Hash Table
 |  |
@@ -113,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Taqi12/LeetCodeProblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Taqi12/LeetCodeProblems/tree/master/1975-maximum-matrix-sum) |
 ## Stack
 |  |
