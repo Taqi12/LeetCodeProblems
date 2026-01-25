@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-largest-magic-square](https://github.com/Taqi12/LeetCodeProblems/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Taqi12/LeetCodeProblems/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Taqi12/LeetCodeProblems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Taqi12/LeetCodeProblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Taqi12/LeetCodeProblems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Taqi12/LeetCodeProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0922-sort-array-by-parity-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Taqi12/LeetCodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Taqi12/LeetCodeProblems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Taqi12/LeetCodeProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Hash Table
 |  |
@@ -216,4 +218,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Taqi12/LeetCodeProblems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
