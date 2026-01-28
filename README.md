@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3454-separate-squares-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Taqi12/LeetCodeProblems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Taqi12/LeetCodeProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Taqi12/LeetCodeProblems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Taqi12/LeetCodeProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Taqi12/LeetCodeProblems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## String
 |  |
 | ------- |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Taqi12/LeetCodeProblems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Taqi12/LeetCodeProblems/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Taqi12/LeetCodeProblems/tree/master/1975-maximum-matrix-sum) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Taqi12/LeetCodeProblems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Tree
 |  |
 | ------- |
