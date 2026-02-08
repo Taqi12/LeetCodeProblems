@@ -165,12 +165,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Taqi12/LeetCodeProblems/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Taqi12/LeetCodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Taqi12/LeetCodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Taqi12/LeetCodeProblems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Taqi12/LeetCodeProblems/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Taqi12/LeetCodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Taqi12/LeetCodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Taqi12/LeetCodeProblems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Taqi12/LeetCodeProblems/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Taqi12/LeetCodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Taqi12/LeetCodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Taqi12/LeetCodeProblems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
