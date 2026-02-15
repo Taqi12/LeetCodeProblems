@@ -94,12 +94,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Taqi12/LeetCodeProblems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Taqi12/LeetCodeProblems/tree/master/0067-add-binary) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Taqi12/LeetCodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Taqi12/LeetCodeProblems/tree/master/1390-four-divisors) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Taqi12/LeetCodeProblems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Taqi12/LeetCodeProblems/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Taqi12/LeetCodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Taqi12/LeetCodeProblems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Taqi12/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0645-set-mismatch](https://github.com/Taqi12/LeetCodeProblems/tree/master/0645-set-mismatch) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -131,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Taqi12/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Taqi12/LeetCodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Taqi12/LeetCodeProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
