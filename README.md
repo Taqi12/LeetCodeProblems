@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/Taqi12/LeetCodeProblems/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Taqi12/LeetCodeProblems/tree/master/2000-reverse-prefix-of-word) |
 | [2573-find-the-string-with-lcp](https://github.com/Taqi12/LeetCodeProblems/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3714-longest-balanced-substring-ii) |
