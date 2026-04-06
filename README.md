@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Taqi12/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Taqi12/LeetCodeProblems/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Taqi12/LeetCodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0874-walking-robot-simulation](https://github.com/Taqi12/LeetCodeProblems/tree/master/0874-walking-robot-simulation) |
 | [0905-sort-array-by-parity](https://github.com/Taqi12/LeetCodeProblems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0645-set-mismatch](https://github.com/Taqi12/LeetCodeProblems/tree/master/0645-set-mismatch) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Taqi12/LeetCodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/Taqi12/LeetCodeProblems/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Taqi12/LeetCodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Taqi12/LeetCodeProblems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/Taqi12/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Taqi12/LeetCodeProblems/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Taqi12/LeetCodeProblems/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Taqi12/LeetCodeProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Taqi12/LeetCodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Taqi12/LeetCodeProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
