@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Taqi12/LeetCodeProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Taqi12/LeetCodeProblems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Taqi12/LeetCodeProblems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Taqi12/LeetCodeProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Taqi12/LeetCodeProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Taqi12/LeetCodeProblems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/Taqi12/LeetCodeProblems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/Taqi12/LeetCodeProblems/tree/master/1768-merge-strings-alternately) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Taqi12/LeetCodeProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Taqi12/LeetCodeProblems/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Taqi12/LeetCodeProblems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Taqi12/LeetCodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Taqi12/LeetCodeProblems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Taqi12/LeetCodeProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3453-separate-squares-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3454-separate-squares-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Taqi12/LeetCodeProblems/tree/master/3488-closest-equal-element-queries) |
