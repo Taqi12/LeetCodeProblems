@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Taqi12/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Taqi12/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Taqi12/LeetCodeProblems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/Taqi12/LeetCodeProblems/tree/master/0788-rotated-digits) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Taqi12/LeetCodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Taqi12/LeetCodeProblems/tree/master/1390-four-divisors) |
 | [1622-fancy-sequence](https://github.com/Taqi12/LeetCodeProblems/tree/master/1622-fancy-sequence) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Taqi12/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Taqi12/LeetCodeProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/Taqi12/LeetCodeProblems/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Taqi12/LeetCodeProblems/tree/master/0799-champagne-tower) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Taqi12/LeetCodeProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Taqi12/LeetCodeProblems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
