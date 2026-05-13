@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Taqi12/LeetCodeProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Taqi12/LeetCodeProblems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Taqi12/LeetCodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Taqi12/LeetCodeProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Taqi12/LeetCodeProblems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Taqi12/LeetCodeProblems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Taqi12/LeetCodeProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Taqi12/LeetCodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Taqi12/LeetCodeProblems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Taqi12/LeetCodeProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/Taqi12/LeetCodeProblems/tree/master/1980-find-unique-binary-string) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Taqi12/LeetCodeProblems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2615-sum-of-distances](https://github.com/Taqi12/LeetCodeProblems/tree/master/2615-sum-of-distances) |
@@ -415,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Taqi12/LeetCodeProblems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Taqi12/LeetCodeProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Taqi12/LeetCodeProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Taqi12/LeetCodeProblems/tree/master/1895-largest-magic-square) |
 | [2615-sum-of-distances](https://github.com/Taqi12/LeetCodeProblems/tree/master/2615-sum-of-distances) |
