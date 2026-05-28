@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Taqi12/LeetCodeProblems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Taqi12/LeetCodeProblems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3093-longest-common-suffix-queries](https://github.com/Taqi12/LeetCodeProblems/tree/master/3093-longest-common-suffix-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Taqi12/LeetCodeProblems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3093-longest-common-suffix-queries](https://github.com/Taqi12/LeetCodeProblems/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3714-longest-balanced-substring-ii) |
 ## Greedy
@@ -498,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3093-longest-common-suffix-queries](https://github.com/Taqi12/LeetCodeProblems/tree/master/3093-longest-common-suffix-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
