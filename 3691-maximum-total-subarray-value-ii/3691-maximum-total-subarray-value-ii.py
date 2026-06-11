@@ -1,36 +1,58 @@
 class Solution:
-    def maxTotalValue(self, nums: list[int], k: int) -> int:
+    def maxTotalValue(self, nums: List[int], k: int) -> int:
         n = len(nums)
-        LUT = SparseTable(nums)
 
-        pq = [(-LUT.query(i, n), i, n) for i in range(n)]
+        # Precompute logs
+        lg = [0] * (n + 1)
+        for i in range(2, n + 1):
+            lg[i] = lg[i // 2] + 1
 
-        res = 0
-        for _ in range(k):
-            val, l, r = pq[0]
-            if val == 0:
-                break
-            res -= val
-            heapq.heapreplace(pq, (-LUT.query(l, r - 1), l, r - 1))
+        LOG = lg[n] + 1
 
-        return res
+        stMax = [[0] * n for _ in range(LOG)]
+        stMin = [[0] * n for _ in range(LOG)]
 
-class SparseTable:
-    def __init__(self, num: list[int]):
-        n = len(num)
-        bitWidth = n.bit_length()
-        self.Min = [[0] * n for _ in range(bitWidth)]
-        self.Max = [[0] * n for _ in range(bitWidth)]
-
+        # Level 0
         for i in range(n):
-            self.Min[0][i] = self.Max[0][i] = num[i]
+            stMax[0][i] = nums[i]
+            stMin[0][i] = nums[i]
 
-        for i in range(1, bitWidth):
-            for j in range(n - (1 << i) + 1):
-                self.Min[i][j] = min(self.Min[i - 1][j], self.Min[i - 1][j + (1 << (i - 1))])
-                self.Max[i][j] = max(self.Max[i - 1][j], self.Max[i - 1][j + (1 << (i - 1))])
+        # Build Sparse Tables
+        for j in range(1, LOG):
+            length = 1 << j
 
-    def query(self, left: int, right: int) -> int:
-        k = (right - left).bit_length() - 1
-        return max(self.Max[k][left], self.Max[k][right - (1 << k)]) - \
-               min(self.Min[k][left], self.Min[k][right - (1 << k)])
+            for i in range(n - length + 1):
+
+                stMax[j][i] = max(stMax[j - 1][i],stMax[j - 1][i + (1 << (j - 1))])
+                stMin[j][i] = min(stMin[j - 1][i],stMin[j - 1][i + (1 << (j - 1))])
+
+        def getValue(l, r):
+            length = r - l + 1
+            p = lg[length]
+
+            mx = max(stMax[p][l],stMax[p][r - (1 << p) + 1])
+            mn = min(stMin[p][l],stMin[p][r - (1 << p) + 1])
+
+            return mx - mn
+
+        pq = []
+
+        # Initial candidates
+        for l in range(n):
+            heapq.heappush(pq,(-getValue(l, n - 1), l, n - 1))
+
+        ans = 0
+
+        while k:
+
+            neg_val, l, r = heapq.heappop(pq)
+            val = -neg_val
+
+            ans += val
+
+            if r > l:
+                heapq.heappush(pq,(-getValue(l, r - 1), l, r - 1))
+
+            k -= 1
+
+        return ans
