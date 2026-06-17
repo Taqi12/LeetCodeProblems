@@ -1,30 +1,38 @@
 class Solution:
     def processStr(self, s: str, k: int) -> str:
-        n = len(s)
-        ln = 0
+        length = 0
 
+        # Step 1: compute final length
         for c in s:
             if c == '*':
-                ln = max(ln - 1, 0)
+                length = max(0, length - 1)
             elif c == '#':
-                ln *= 2
+                length *= 2
             elif c != '%':
-                ln += 1
+                length += 1
 
-        if k >= ln:
+        if k >= length:
             return '.'
 
-        for i in range(n - 1, -1, -1):
+        # Step 2: backward simulation
+        for i in range(len(s) - 1, -1, -1):
             c = s[i]
+
             if c == '*':
-                ln += 1
+                length += 1
+
             elif c == '#':
-                if k >= ln // 2:
-                    k -= ln // 2
-                ln //= 2
+                half = length // 2
+                if k >= half:
+                    k -= half
+                length = half
+
             elif c == '%':
-                k = ln - 1 - k
+                k = length - 1 - k
+
             else:
-                if ln == k + 1:
+                if k == length - 1:
                     return c
-                ln -= 1
+                length -= 1
+
+        return '.'
