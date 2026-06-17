@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3379-transformed-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Bit Manipulation
 |  |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/Taqi12/LeetCodeProblems/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3714-longest-balanced-substring-ii) |
 ## Greedy
 |  |
