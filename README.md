@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3660-jump-game-ix](https://github.com/Taqi12/LeetCodeProblems/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Taqi12/LeetCodeProblems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Taqi12/LeetCodeProblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Taqi12/LeetCodeProblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting Sort
 |  |
 | ------- |
