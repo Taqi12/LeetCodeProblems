@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Taqi12/LeetCodeProblems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Taqi12/LeetCodeProblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Taqi12/LeetCodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Taqi12/LeetCodeProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3714-longest-balanced-substring-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3714-longest-balanced-substring-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Taqi12/LeetCodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3737-count-subarrays-with-majority-element-i) |
