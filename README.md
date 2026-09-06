@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Taqi12/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Taqi12/LeetCodeProblems/tree/master/0115-distinct-subsequences) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Taqi12/LeetCodeProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Taqi12/LeetCodeProblems/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Taqi12/LeetCodeProblems/tree/master/0799-champagne-tower) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Taqi12/LeetCodeProblems/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Taqi12/LeetCodeProblems/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Taqi12/LeetCodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Taqi12/LeetCodeProblems/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
