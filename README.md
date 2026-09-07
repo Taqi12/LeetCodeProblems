@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Taqi12/LeetCodeProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Taqi12/LeetCodeProblems/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Taqi12/LeetCodeProblems/tree/master/0799-champagne-tower) |
+| [0940-distinct-subsequences-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/0940-distinct-subsequences-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Taqi12/LeetCodeProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Taqi12/LeetCodeProblems/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Taqi12/LeetCodeProblems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0761-special-binary-string](https://github.com/Taqi12/LeetCodeProblems/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Taqi12/LeetCodeProblems/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Taqi12/LeetCodeProblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0940-distinct-subsequences-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Taqi12/LeetCodeProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Taqi12/LeetCodeProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Taqi12/LeetCodeProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
