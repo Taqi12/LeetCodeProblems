@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3453-separate-squares-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Taqi12/LeetCodeProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Taqi12/LeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Taqi12/LeetCodeProblems/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Taqi12/LeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Taqi12/LeetCodeProblems/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -534,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Taqi12/LeetCodeProblems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Taqi12/LeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Taqi12/LeetCodeProblems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -671,4 +674,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Taqi12/LeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
