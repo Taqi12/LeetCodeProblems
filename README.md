@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2000-reverse-prefix-of-word](https://github.com/Taqi12/LeetCodeProblems/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Taqi12/LeetCodeProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Taqi12/LeetCodeProblems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Taqi12/LeetCodeProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/Taqi12/LeetCodeProblems/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Taqi12/LeetCodeProblems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Taqi12/LeetCodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Taqi12/LeetCodeProblems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/Taqi12/LeetCodeProblems/tree/master/2463-minimum-total-distance-traveled) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Taqi12/LeetCodeProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/Taqi12/LeetCodeProblems/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -360,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Taqi12/LeetCodeProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Taqi12/LeetCodeProblems/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Taqi12/LeetCodeProblems/tree/master/2000-reverse-prefix-of-word) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Taqi12/LeetCodeProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Taqi12/LeetCodeProblems/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/Taqi12/LeetCodeProblems/tree/master/2833-furthest-point-from-origin) |
@@ -389,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1975-maximum-matrix-sum](https://github.com/Taqi12/LeetCodeProblems/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/Taqi12/LeetCodeProblems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Taqi12/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Taqi12/LeetCodeProblems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/Taqi12/LeetCodeProblems/tree/master/2573-find-the-string-with-lcp) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
