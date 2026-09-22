@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3488-closest-equal-element-queries](https://github.com/Taqi12/LeetCodeProblems/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Taqi12/LeetCodeProblems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Taqi12/LeetCodeProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3525-find-x-value-of-array-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3525-find-x-value-of-array-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Taqi12/LeetCodeProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Taqi12/LeetCodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -529,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/Taqi12/LeetCodeProblems/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/Taqi12/LeetCodeProblems/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3454-separate-squares-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3721-longest-balanced-subarray-ii) |
