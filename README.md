@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3525-find-x-value-of-array-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3546-equal-sum-grid-partition-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Taqi12/LeetCodeProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Taqi12/LeetCodeProblems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Taqi12/LeetCodeProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Taqi12/LeetCodeProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3525-find-x-value-of-array-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Taqi12/LeetCodeProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Taqi12/LeetCodeProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Taqi12/LeetCodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
