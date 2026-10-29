@@ -1,55 +1,43 @@
 class TrieNode:
+    __slots__ = ['children', 'bestLen', 'bestIdx']
+    
     def __init__(self):
         self.children = {}
-        self.min_len = float("inf")
-        self.idx = float("inf")
-
-
-class Trie:
-    def __init__(self):
-        self.root = TrieNode()
-
-    def insert(self, s: str, idx: int):
-        node = self.root
-        if len(s) < node.min_len:
-            node.min_len = len(s)
-            node.idx = idx
-
-        for ch in s:
-            c = ch
-            if c not in node.children:
-                node.children[c] = TrieNode()
-            node = node.children[c]
-
-            if len(s) < node.min_len:
-                node.min_len = len(s)
-                node.idx = idx
-
-    def query(self, s: str) -> int:
-        node = self.root
-
-        for ch in s:
-            if ch in node.children:
-                node = node.children[ch]
-            else:
-                break
-
-        return node.idx
-
+        self.bestLen = float('inf')
+        self.bestIdx = float('inf')
 
 class Solution:
-    def stringIndices(
-        self, wordsContainer: List[str], wordsQuery: List[str]
-    ) -> List[int]:
-        trie = Trie()
-
+    def stringIndices(self, wordsContainer: List[str], wordsQuery: List[str]) -> List[int]:
+        root = TrieNode()
+        
         for i, word in enumerate(wordsContainer):
-            reversed_word = word[::-1]
-            trie.insert(reversed_word, i)
-
-        res = []
+            n = len(word)
+            curr = root
+            
+            if n < curr.bestLen or (n == curr.bestLen and i < curr.bestIdx):
+                curr.bestLen = n
+                curr.bestIdx = i
+                
+            for char in reversed(word):
+                if char not in curr.children:
+                    curr.children[char] = TrieNode()
+                
+                curr = curr.children[char]
+                
+                if n < curr.bestLen or (n == curr.bestLen and i < curr.bestIdx):
+                    curr.bestLen = n
+                    curr.bestIdx = i
+                    
+        ans = []
+        
         for query in wordsQuery:
-            reversed_query = query[::-1]
-            res.append(trie.query(reversed_query))
-
-        return res
+            curr = root
+            
+            for char in reversed(query):
+                if char not in curr.children:
+                    break
+                curr = curr.children[char]
+            
+            ans.append(curr.bestIdx)
+            
+        return ans
