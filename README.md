@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/Taqi12/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Taqi12/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Taqi12/LeetCodeProblems/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Taqi12/LeetCodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/Taqi12/LeetCodeProblems/tree/master/0645-set-mismatch) |
 | [0761-special-binary-string](https://github.com/Taqi12/LeetCodeProblems/tree/master/0761-special-binary-string) |
 | [0905-sort-array-by-parity](https://github.com/Taqi12/LeetCodeProblems/tree/master/0905-sort-array-by-parity) |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Taqi12/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Taqi12/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Taqi12/LeetCodeProblems/tree/master/0067-add-binary) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Taqi12/LeetCodeProblems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Taqi12/LeetCodeProblems/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/Taqi12/LeetCodeProblems/tree/master/0836-rectangle-overlap) |
