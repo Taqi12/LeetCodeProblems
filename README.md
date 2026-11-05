@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-jump-game-iv](https://github.com/Taqi12/LeetCodeProblems/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taqi12/LeetCodeProblems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Taqi12/LeetCodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Taqi12/LeetCodeProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/Taqi12/LeetCodeProblems/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Taqi12/LeetCodeProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Taqi12/LeetCodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/Taqi12/LeetCodeProblems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Taqi12/LeetCodeProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Taqi12/LeetCodeProblems/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Taqi12/LeetCodeProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Taqi12/LeetCodeProblems/tree/master/1861-rotating-the-box) |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/Taqi12/LeetCodeProblems/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Taqi12/LeetCodeProblems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Taqi12/LeetCodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Taqi12/LeetCodeProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Taqi12/LeetCodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Taqi12/LeetCodeProblems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1840-maximum-building-height](https://github.com/Taqi12/LeetCodeProblems/tree/master/1840-maximum-building-height) |
@@ -532,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Taqi12/LeetCodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Taqi12/LeetCodeProblems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Taqi12/LeetCodeProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Taqi12/LeetCodeProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Taqi12/LeetCodeProblems/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/Taqi12/LeetCodeProblems/tree/master/3161-block-placement-queries) |
