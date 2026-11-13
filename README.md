@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Taqi12/LeetCodeProblems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/3379-transformed-array) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Taqi12/LeetCodeProblems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3453-separate-squares-i](https://github.com/Taqi12/LeetCodeProblems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Taqi12/LeetCodeProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Taqi12/LeetCodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Taqi12/LeetCodeProblems/tree/master/2000-reverse-prefix-of-word) |
 | [2751-robot-collisions](https://github.com/Taqi12/LeetCodeProblems/tree/master/2751-robot-collisions) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Taqi12/LeetCodeProblems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Design
 |  |
 | ------- |
@@ -522,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Taqi12/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Taqi12/LeetCodeProblems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Geometry
 |  |
 | ------- |
@@ -553,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1622-fancy-sequence](https://github.com/Taqi12/LeetCodeProblems/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/Taqi12/LeetCodeProblems/tree/master/3161-block-placement-queries) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Taqi12/LeetCodeProblems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-separate-squares-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3454-separate-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -627,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Taqi12/LeetCodeProblems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Taqi12/LeetCodeProblems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Taqi12/LeetCodeProblems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Taqi12/LeetCodeProblems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Taqi12/LeetCodeProblems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Taqi12/LeetCodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
 ## Graph Theory
@@ -719,4 +724,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Taqi12/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Taqi12/LeetCodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Taqi12/LeetCodeProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Taqi12/LeetCodeProblems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Taqi12/LeetCodeProblems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
